@@ -12,23 +12,23 @@ const projects = [
   },
   {
     id: 2,
-    title: "currency-converter",
+    title: "Ipl Dashboard",
     description:
-      "This project is a responsive currency converter web application built using HTML, CSS, and JavaScript.",
+      " Implemented IPL Dashboard app where users can list of ipl team, individual team details and respective team matches info",
     image: "/projects/project2.png",
-    tags: ["HTML", "CSS", "JavaScript"],
-    demoUrl: "https://curncyconv.ccbp.tech/",
+    tags: ["React.js", "CSS", "JavaScript", "GET HTTP API"],
+    demoUrl: "https://ipl07dashboard.ccbp.tech/",
     githubUrl: "https://github.com/saichandu3/currency-converter",
   },
   {
     id: 3,
-    title: "ReactShoppingUi",
+    title: "Jobby App",
     description:
-      "I recently undertook a project to build a complete shopping UI using React.js.",
+      "Constructed an all-in-one job searching platform, Jobby App. Ï Built pages for Login, Home, Jobs, and Job item details with React components, form inputs, and event handlers.",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/saichandu3/ReactShopping_UI",
+    tags: ["React", "CSS", "JWT tokens", "Stripe", " REST API calls"],
+    demoUrl: "https://jobbyapp1207.ccbp.tech/login",
+    githubUrl: "https://github.com/saichandu3/My-Jobby-App",
   },
 ];
 
