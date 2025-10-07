@@ -99,7 +99,7 @@ export const ProjectsSection = () => {
           <span class="p-2 text-gray-700 text-sm">
             *NOTE: 
           </span>
-          for jobby app authentication use this username: rahul, password: rahul@2021
+           for jobby app authentication use this username: rahul, password: rahul@2021
         </p>
 
         <div className="text-center mt-12">
