@@ -96,7 +96,7 @@ export const ProjectsSection = () => {
           ))}
         </div>
         <p class="p-4 m-4 text-blue-600 text-lg">
-          <span class="p-2 text-gray-700 text-sm">
+          <span class="p-2 text-red-700 text-sm">
             *NOTE: 
           </span>
            for jobby app authentication use this username: rahul, password: rahul@2021
