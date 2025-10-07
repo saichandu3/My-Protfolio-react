@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["React.js", "CSS", "JavaScript", "GET HTTP API"],
     demoUrl: "https://ipl07dashboard.ccbp.tech/",
-    githubUrl: "https://github.com/saichandu3/currency-converter",
+    githubUrl: "https://github.com/saichandu3",
   },
   {
     id: 3,
