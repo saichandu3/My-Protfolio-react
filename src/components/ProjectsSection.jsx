@@ -95,7 +95,7 @@ export const ProjectsSection = () => {
             </div>
           ))}
         </div>
-        <p class="p-2 text-blue-600 text-lg">
+        <p class="p-4 m-4 text-blue-600 text-lg">
           <span class="text-gray-700 text-sm">
             *NOTE: 
           </span>
